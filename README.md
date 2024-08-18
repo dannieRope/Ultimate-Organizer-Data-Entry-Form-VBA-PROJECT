@@ -69,7 +69,7 @@ Find the VBA codes behind this form [here](https://github.com/dannieRope/Ultimat
 
 ![Capture5](https://github.com/user-attachments/assets/8466231c-7cd6-4f71-974a-ea58dda2e769)
 
-Find the VBA codes behind this form [here]()
+Find the VBA codes behind this form [here](https://github.com/dannieRope/Ultimate-Organizer-Data-Entry-Form-VBA-PROJECT/blob/main/Forms/DeleteRecord.frm)
 
 **6)	Search/Replace.**
 
